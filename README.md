@@ -34,7 +34,7 @@ Students who are open to providing guidance can set their status to A.M.A (Ask M
 [shoriuch](https://profile.intra.42.fr/users/shoriuch)
 
 # Demo
-<img src="./public/my_qr2.png" width=200px>
+<img src="./public/qr_code.png" width=200px>
 
 [link](https://youtu.be/uhmJ9erFU8E)  
 https://youtu.be/uhmJ9erFU8E
