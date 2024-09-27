@@ -24,10 +24,10 @@ https://docs.google.com/presentation/d/1Mb3eUoSsoAbJTkOcNogm4T_wnY2S1Dgfd5KQSEEY
 https://www.figma.com/design/wrlPgeJNbDfoE5S5IkXwU9/Team-B?node-id=0-1&m=dev&t=yD7LbriY21jt2BwU-1
 
 # Team member
-- nwattana
-- seokjyoo
-- bhowe
-- brybenja
+[bhowe](https://profile.intra.42.fr/users/bhowe)
+[brybenja](https://profile.intra.42.fr/users/brybenja)
+[nwattana](https://profile.intra.42.fr/users/nwattana)
+[seokjyoo](https://profile.intra.42.fr/users/seokjyoo)
 
 # Demo 
 https://youtu.be/uhmJ9erFU8E
