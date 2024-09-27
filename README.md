@@ -1,7 +1,10 @@
+# 42 Ask Me Anything (42 AMA)
+
 
 <center>
-<img src="./public/logo.gif">
+<img src="./public/logo.png">
 </center>
+
 
 # Project overview
 The "42 A.M.A" project is an initiative aimed at enhancing the quality of life for students at 42 by providing a more convenient communication channel that aligns with the peer-to-peer learning model. It is especially designed for those who may feel hesitant to ask or teach others within the campus environment.
@@ -20,16 +23,20 @@ https://docs.google.com/presentation/d/1Mb3eUoSsoAbJTkOcNogm4T_wnY2S1Dgfd5KQSEEY
 # techstack
 - FIGMA - for design
 
-# Demo
-https://www.figma.com/design/wrlPgeJNbDfoE5S5IkXwU9/Team-B?node-id=0-1&m=dev&t=yD7LbriY21jt2BwU-1
+
 
 # Team member
-[bhowe](https://profile.intra.42.fr/users/bhowe)
-[brybenja](https://profile.intra.42.fr/users/brybenja)
-[nwattana](https://profile.intra.42.fr/users/nwattana)
-[seokjyoo](https://profile.intra.42.fr/users/seokjyoo)
+[bhowe](https://profile.intra.42.fr/users/bhowe)  
+[brybenja](https://profile.intra.42.fr/users/brybenja)  
+[nwattana](https://profile.intra.42.fr/users/nwattana)  
+[seokjyoo](https://profile.intra.42.fr/users/seokjyoo)  
 
-# Demo 
+# Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uhmJ9erFU8E?si=uezRw6GigGubDyUp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="./public/my_qr2.png" width=200px>
+
 https://youtu.be/uhmJ9erFU8E
 
 # Acknowledgment
