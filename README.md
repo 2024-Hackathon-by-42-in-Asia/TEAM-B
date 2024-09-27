@@ -1,6 +1,6 @@
 
 <center>
-Logo Here
+<img src="./public/logo.gif">
 </center>
 
 # Project overview
