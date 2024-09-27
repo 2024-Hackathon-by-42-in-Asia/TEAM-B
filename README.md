@@ -26,7 +26,6 @@ Students who are open to providing guidance can set their status to A.M.A (Ask M
 - FIGMA - for design
 
 
-
 # Team member
 [bhowe](https://profile.intra.42.fr/users/bhowe)  
 [brybenja](https://profile.intra.42.fr/users/brybenja)  
@@ -36,4 +35,5 @@ Students who are open to providing guidance can set their status to A.M.A (Ask M
 # Demo
 <img src="./public/my_qr2.png" width=200px>
 
+[link](https://youtu.be/uhmJ9erFU8E)  
 https://youtu.be/uhmJ9erFU8E
