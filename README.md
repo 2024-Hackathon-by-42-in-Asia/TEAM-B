@@ -23,7 +23,7 @@ Students who are open to providing guidance can set their status to A.M.A (Ask M
 - list who enable/disble A.M.A status
 
 # techstack
-- FIGMA - for design
+- FIGMA - for design: [link](https://www.figma.com/design/wrlPgeJNbDfoE5S5IkXwU9/Team-B?node-id=0-1&t=ikxe8Y5wUze1YkDz-1)
 
 
 # Team member
