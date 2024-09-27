@@ -1,4 +1,4 @@
 import qrcode
 
-img = qrcode.make('https://youtu.be/uhmJ9erFU8E')
-img.save('qr_code.png')
+img = qrcode.make('https://tinyurl.com/yu37krka')
+img.save('qr_code_3.png')
