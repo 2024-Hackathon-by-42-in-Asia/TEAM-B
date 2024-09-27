@@ -31,9 +31,14 @@ Students who are open to providing guidance can set their status to A.M.A (Ask M
 [brybenja](https://profile.intra.42.fr/users/brybenja)  
 [nwattana](https://profile.intra.42.fr/users/nwattana)  
 [seokjyoo](https://profile.intra.42.fr/users/seokjyoo)  
+[shoriuch](https://profile.intra.42.fr/users/shoriuch)
 
 # Demo
 <img src="./public/my_qr2.png" width=200px>
 
 [link](https://youtu.be/uhmJ9erFU8E)  
 https://youtu.be/uhmJ9erFU8E
+
+# Acknowledgment
+
+We would like to extend our sincere gratitude to 42Asia for their invaluable organization and support. A special thanks to 42Seoul for providing the venue and continuous assistance throughout this project. Lastly, we express our appreciation to the entire team for their hard work and dedication.
